@@ -21,7 +21,36 @@
 <body <?php echo body_class(); ?>>
   <!-- <div class="preloader"></div> -->
   
-  <header id="header" class="header" role="banner">
-    
+  <header id="header" class="header py-3" role="banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="header__top d-flex align-items-center justify-content-between">
+            <div class="header__logo">
+              <img src="<?php bloginfo('template_url') ?>/img/moving-logo.svg" width="200px" alt="">
+            </div>
+            <div class="header__contact">
+              <div class="d-flex align-items-center">
+                <img src="<?php bloginfo('template_url') ?>/img/call-answer.svg" width="35px" alt="" class="mr-3">
+                <div>
+                  <span class="font-weight-bold">Звоните:</span>
+                  <br>099-999-99-99
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="header__bottom d-flex justify-content-end py-3">
+            <div class="header__menu">
+              <?php wp_nav_menu([
+                'theme_location' => 'head_menu',
+                'container' => 'nav',
+                'container_class' => 'head_menu',
+                'menu_id' => 'ul_head_menu'
+              ]); ?>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </header>
   <section id="content" role="main">
