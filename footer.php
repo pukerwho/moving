@@ -1,6 +1,12 @@
     </section>
-    <footer id="footer">
-    	
+    <footer id="footer" class="footer">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-md-12 text-center">
+    				 Подвал
+    			</div>
+    		</div>
+    	</div>
     </footer>
     <div class="modal-price">
     	
@@ -11,10 +17,10 @@
 
 							<div class="b_contact__box">
 								<div class="b_contact__title mb-4">
-									Ваши контактные<br>данные для рассчета
+									Ваши контактные<br>данные для расчета
 								</div>
 								<div class="b_contact__form">
-									<?php echo do_shortcode('[contact-form-7 id="12" title="Расчет стоимости"]') ?>
+									<?php echo do_shortcode('[contact-form-7 id="16" title="Расчет стоимости"]') ?>
 								</div>
 								<div class="modal-price__close">
 					    		<i class="fas fa-times"></i>

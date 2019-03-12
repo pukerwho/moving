@@ -9059,6 +9059,9 @@ header {
 .header .header__services:hover .header__submenu {
   display: block; }
 
+.footer {
+  background-color: #ffffff; }
+
 .b_welcome {
   height: 100vh;
   display: -webkit-box;

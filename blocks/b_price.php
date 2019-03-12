@@ -6,7 +6,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-4 text-center">
+			<div class="col-md-4 text-center mb-5">
 				<div class="b_price__item">
 					<div class="b_price__icon mb-4">
 						<img src="<?php bloginfo('template_url') ?>/img/skyline.svg" alt="" width="50px">
@@ -22,7 +22,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-center">
+			<div class="col-md-4 text-center mb-5">
 				<div class="b_price__item">
 					<div class="b_price__icon mb-4">
 						<img src="<?php bloginfo('template_url') ?>/img/ukr.svg" alt="" width="50px">
@@ -38,7 +38,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 text-center">
+			<div class="col-md-4 text-center mb-5">
 				<div class="b_price__item">
 					<div class="b_price__icon mb-4">
 						<img src="<?php bloginfo('template_url') ?>/img/world.svg" alt="" width="50px">
