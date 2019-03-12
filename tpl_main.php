@@ -22,8 +22,8 @@ Template Name: Главная
 	<?php get_template_part('blocks/b_price') ?>
 </section>
 
-<section id="b_contact">
+<!-- <section id="b_contact">
 	<?php get_template_part('blocks/b_contact') ?>
-</section>
+</section> -->
 
 <?php get_footer(); ?>

@@ -35,3 +35,17 @@ $('.header__services').mouseover(function() {
 $('.header__submenu').mouseleave(function() {
   $('.header__submenu').css({'display':'none'});
 });
+
+//Modal-price 
+$(document).on('click', '.modal-price-btn', function(){
+  $('.modal-price').show();
+  $('body').addClass('modal-open');
+  $('.modal-bg').addClass('modal-bg__open');
+});
+
+$(document).on('click', '.modal-price__close', function(){
+  console.log('click')
+  $('.modal-price').hide();
+  $('body').removeClass('modal-open');
+  $('.modal-bg').removeClass('modal-bg__open');
+});  

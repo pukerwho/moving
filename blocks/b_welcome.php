@@ -9,7 +9,7 @@
 					<div class="b_welcome__desc mb-5">
 						Грузовые перевозки по Украине и всему миру
 					</div>
-					<div class="my-btn">
+					<div class="my-btn modal-price-btn">
 						Расчитать стоимость
 					</div>
 				</div>

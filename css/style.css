@@ -4,6 +4,7 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+@import url("https://use.fontawesome.com/releases/v5.1.0/css/all.css");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -8986,7 +8987,8 @@ a:hover {
   box-shadow: 0 0 0 2em #FFAE02 inset;
   -webkit-border-radius: 50px;
   border-radius: 50px;
-  padding: 1.3em 4em; }
+  padding: 1.3em 4em;
+  cursor: pointer; }
 
 header {
   position: absolute;
@@ -9140,6 +9142,7 @@ header {
     transform: translateY(-50%); }
 
 .b_contact__box {
+  position: relative;
   background-color: #ffffff;
   padding: 2rem 4rem;
   -webkit-border-radius: 3px;
@@ -9195,5 +9198,43 @@ header {
   font-size: 1.5rem;
   font-weight: 800;
   text-transform: uppercase; }
+
+.modal-open {
+  overflow: hidden; }
+.modal-price {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 0;
+  right: 0;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 99; }
+  .modal-price__close {
+    position: absolute;
+    top: -50px;
+    right: 0; }
+    .modal-price__close i {
+      color: #ffffff;
+      font-size: 2rem;
+      cursor: pointer;
+      -webkit-transition: all 0.4s;
+      -o-transition: all 0.4s;
+      transition: all 0.4s; }
+      .modal-price__close i:hover {
+        -webkit-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        transform: rotate(180deg);
+        -webkit-transition: all 0.4s;
+        -o-transition: all 0.4s;
+        transition: all 0.4s; }
+.modal-bg__open {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(41, 47, 88, 0.85);
+  position: fixed;
+  z-index: 3;
+  top: 0; }
 
 /*# sourceMappingURL=style.css.map */
