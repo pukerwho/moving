@@ -41,13 +41,30 @@
           </div>
           <div class="header__bottom d-flex justify-content-end py-3">
             <div class="header__menu">
-              <?php wp_nav_menu([
+              <nav class="head_menu">
+                <ul>
+                  <li>
+                    <a href="#">Главная</a>
+                  </li>
+                  <li class="header__services">
+                    <a href="#">Услуги</a>
+                  </li>
+                  <li>
+                    <a href="#">Статьи</a>
+                  </li>
+                  <li>
+                    <a href="#">Контакты</a>
+                  </li>
+                </ul>
+              </nav>
+              <!-- <?php wp_nav_menu([
                 'theme_location' => 'head_menu',
                 'container' => 'nav',
                 'container_class' => 'head_menu',
                 'menu_id' => 'ul_head_menu'
-              ]); ?>
+              ]); ?> -->
             </div>
+            <?php get_template_part('blocks/header/header__submenu') ?>
           </div>
         </div>
       </div>

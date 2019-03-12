@@ -1,8 +1,8 @@
-<div class="b_ukraine">
-	<div class="container py-5">
+<div class="b_world">
+	<div class="container">
 		<div class="row">
-			<div class="col-md-8">
-				<h2 class="mb-4">Перевозка грузов<br>по <span class="color-yellow typed"></span></h2>
+			<div class="col-md-8 offset-md-4">
+				<h2 class="mb-4">Перевозка грузов<br>по <span class="color-yellow typed">Украине</span></h2>
 				<div class="line mb-4"></div>
 				<div class="text-white lead mb-5">
 					Текст для услуги. 
@@ -15,8 +15,5 @@
 				</a>
 			</div>
 		</div>
-	</div>
-	<div class="b_ukraine__map">
-		<img src="<?php bloginfo('template_url') ?>/img/ukraine.svg" width="600px" height="415px" alt="">
 	</div>
 </div>

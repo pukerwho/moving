@@ -3,8 +3,11 @@
 		<div class="row">
 			<div class="col-md-8">
 				<div class="b_welcome__block">
-					<div class="b_welcome__title mb-5">
-						Грузоперевозки<br>на край света
+					<div class="b_welcome__title mb-3">
+						Мир грузовых перевозок
+					</div>
+					<div class="b_welcome__desc mb-5">
+						Грузовые перевозки по Украине и всему миру
 					</div>
 					<div class="my-btn">
 						Расчитать стоимость
@@ -42,8 +45,14 @@
 						</a>
 						<a href="#">
 							<div class="b_welcome__item">
-								<img src="<?php bloginfo('template_url') ?>/img/moving-truck.svg" width="35px" alt="" class="mb-2">
+								<img src="<?php bloginfo('template_url') ?>/img/position.svg" width="35px" alt="" class="mb-2">
 								<p>Международные переезды</p>
+							</div>
+						</a>
+						<a href="#">
+							<div class="b_welcome__item">
+								<img src="<?php bloginfo('template_url') ?>/img/moving-truck.svg" width="35px" alt="" class="mb-2">
+								<p>Способы перевозки</p>
 							</div>
 						</a>
 						<a href="#">
