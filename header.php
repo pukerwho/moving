@@ -29,7 +29,20 @@
             <div class="header__logo">
               <img src="<?php bloginfo('template_url') ?>/img/moving-logo.svg" width="200px" alt="">
             </div>
-            <div class="header__contact">
+            <div class="mobile-show">
+              <div class="mobile-menu">
+                <span></span>
+                <span></span>
+              </div>
+              <div class="mobile-cover">
+                <li><a href="#">Главная</a></li>
+                <li><a href="#">Услуги</a></li>
+                <li><a href="#">Статьи</a></li>
+                <li><a href="#">Контакты</a></li>
+              </div>
+            </div>
+            
+            <div class="header__contact pc-show">
               <div class="d-flex align-items-center">
                 <img src="<?php bloginfo('template_url') ?>/img/call-answer.svg" width="35px" alt="" class="mr-3">
                 <div>
