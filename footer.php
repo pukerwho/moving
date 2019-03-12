@@ -1,9 +1,48 @@
     </section>
-    <footer id="footer" class="footer">
+    <footer id="footer" class="footer py-5">
     	<div class="container">
     		<div class="row">
     			<div class="col-md-12 text-center">
-    				 Подвал
+    				<div class="footer__subtitle mb-4">
+    					Наши контакты
+    				</div>
+    				<div class="lead">
+    					<i class="fas fa-phone-square mr-2"></i>
+    					<a href="#">099-123-45-67</a>
+    				</div>
+    				<div class="lead">
+    					<i class="fas fa-phone-square mr-2"></i>
+    					<a href="#">099-123-45-67</a>
+    				</div>
+    				<div class="lead mb-4">
+    					<i class="fas fa-phone-square mr-2"></i>
+    					<a href="#">099-123-45-67</a>
+    				</div>
+    				<div class="lead mb-4">
+    					<i class="far fa-envelope-open mr-2"></i>
+    					<a href="#">email@email.com</a>
+    				</div>
+    				<div class="social d-flex justify-content-center mb-4">
+    					<a href="#">
+    						<li>
+	    						<i class="fab fa-facebook-f"></i>	
+	    					</li>
+    					</a>
+    					<a href="#">
+	    					<li>
+	    						<i class="fab fa-instagram"></i>
+	    					</li>	
+    					</a>
+    					<a href="#">
+	    					<li>
+	    						<i class="fab fa-youtube"></i>
+	    					</li>	
+    					</a>
+    				</div>
+    				<div class="footer__line mb-4"></div>
+    				<div class="copyright">
+    					Разработка сайта: <a href="https://timeto.top/" target="_blank">Time2Top</a>
+    				</div>
     			</div>
     		</div>
     	</div>
@@ -14,7 +53,6 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-md-6">
-
 							<div class="b_contact__box">
 								<div class="b_contact__title mb-4">
 									Ваши контактные<br>данные для расчета
