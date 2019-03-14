@@ -9447,6 +9447,8 @@ header {
     width: 175px; }
   .header__bottom {
     display: none !important; }
+  .header__fixed .header__bottom {
+    display: none !important; }
 
   .mobile-menu {
     position: relative;
@@ -9572,6 +9574,24 @@ header {
     font-size: 0.75rem; }
 
   .modal-price__close {
-    top: -45px; } }
+    top: -45px; }
+
+  .p_page__welcome {
+    height: 500px;
+    -webkit-background-size: cover !important;
+    background-size: cover !important; }
+  .p_page__cover {
+    height: 500px; }
+  .p_page__grid {
+    height: 100%;
+    -ms-grid-columns: 100%;
+    grid-template-columns: 100%; }
+  .p_page__block {
+    direction: ltr !important; }
+  .p_page__item__img {
+    -webkit-clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 0% 0) !important;
+    clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 0% 0) !important; }
+  .p_page__item:first-child {
+    margin-bottom: 1rem; } }
 
 /*# sourceMappingURL=style.css.map */
