@@ -9204,6 +9204,7 @@ header {
   .b_welcome__title {
     color: #ffffff;
     font-size: 4rem;
+    line-height: 4.5rem;
     font-weight: 800;
     text-transform: uppercase; }
   .b_welcome__desc {
@@ -9214,7 +9215,7 @@ header {
   .b_welcome__bottom {
     width: 100%;
     position: absolute;
-    bottom: 30px;
+    bottom: 10px;
     left: 0;
     right: 0; }
   .b_welcome__grid {
@@ -9223,6 +9224,7 @@ header {
     -ms-grid-columns: 1fr [6];
     grid-template-columns: repeat(6, 1fr); }
   .b_welcome__item {
+    height: 100%;
     color: #212121;
     border-right: 1px solid #d5d5d5;
     border-bottom: 1px solid #d5d5d5;
@@ -9402,12 +9404,9 @@ header {
 .modal-price {
   display: none;
   position: fixed;
-  top: 50%;
+  top: 15px;
   left: 0;
   right: 0;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
   z-index: 99; }
   .modal-price__close {
     position: absolute;
