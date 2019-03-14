@@ -8990,12 +8990,51 @@ a:hover {
   padding: 1.3em 4em;
   cursor: pointer; }
 
+.parallax-window {
+  background: transparent;
+  width: 350px;
+  min-height: 350px; }
+
 header {
-  position: absolute;
   width: 100%;
+  position: fixed;
+  top: 0;
   color: #ffffff;
   z-index: 3; }
 
+.header__fixed {
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  background-color: #ffffff;
+  -webkit-box-shadow: 1px 1px 10px 0px #9E9E9E;
+  box-shadow: 1px 1px 10px 0px #9E9E9E;
+  -webkit-transform: translateY(-110%);
+  -ms-transform: translateY(-110%);
+  transform: translateY(-110%);
+  -webkit-animation: headerfixed 0.4s forwards;
+  animation: headerfixed 0.4s forwards; }
+  .header__fixed .header__top {
+    padding-bottom: 0; }
+  .header__fixed .header__contact {
+    display: none; }
+  .header__fixed .header__menu a {
+    color: #484848; }
+  .header__fixed .header__bottom {
+    position: absolute;
+    right: 15px;
+    top: 0;
+    bottom: 0;
+    padding: 0px !important;
+    color: red;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center; }
 .header__top {
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   padding-bottom: 1rem; }
@@ -9059,6 +9098,20 @@ header {
 .header .header__services:hover .header__submenu {
   display: block; }
 
+@-webkit-keyframes headerfixed {
+  from {
+    -webkit-transform: translateY(-110%);
+    transform: translateY(-110%); }
+  to {
+    -webkit-transform: translateY(0%);
+    transform: translateY(0%); } }
+@keyframes headerfixed {
+  from {
+    -webkit-transform: translateY(-110%);
+    transform: translateY(-110%); }
+  to {
+    -webkit-transform: translateY(0%);
+    transform: translateY(0%); } }
 .footer {
   background-color: #ffffff; }
   .footer__subtitle {
@@ -9272,6 +9325,77 @@ header {
   font-size: 1.5rem;
   font-weight: 800;
   text-transform: uppercase; }
+
+.p_page {
+  background-color: #ffffff; }
+  .p_page__cover {
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5); }
+  .p_page__welcome {
+    height: 400px;
+    position: relative;
+    padding-top: 150px; }
+  .p_page__title {
+    color: #ffffff;
+    font-size: 2.5rem;
+    font-weight: 900;
+    text-transform: uppercase; }
+  .p_page__text {
+    color: #ffffff;
+    font-size: 0.85rem; }
+  .p_page__grid {
+    height: 350px;
+    position: relative;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 55% 45%;
+    grid-template-columns: 55% 45%;
+    border: 1px solid #cccccc;
+    -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); }
+  .p_page__item {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background-color: #ffffff; }
+    .p_page__item:first-child {
+      padding: 2rem; }
+    .p_page__item__img {
+      height: 350px;
+      -webkit-clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 5% 0);
+      clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 5% 0); }
+    .p_page__item__title {
+      color: #484848;
+      font-size: 1.8rem; }
+    .p_page__item__text {
+      font-size: 0.9rem; }
+    .p_page__item img {
+      width: 100%;
+      height: 100%;
+      -o-object-fit: cover;
+      object-fit: cover; }
+  .p_page__block:nth-child(odd) {
+    direction: rtl; }
+    .p_page__block:nth-child(odd) .p_page__grid .p_page__item:last-child {
+      padding: 0; }
+      .p_page__block:nth-child(odd) .p_page__grid .p_page__item:last-child .p_page__item__img {
+        -webkit-clip-path: polygon(100% 0, 100% 0%, 95% 100%, 0 100%, 0 0);
+        clip-path: polygon(100% 0, 100% 0%, 95% 100%, 0 100%, 0 0); }
 
 .modal-open {
   overflow: hidden; }
