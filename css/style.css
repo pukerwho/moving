@@ -9351,7 +9351,7 @@ header {
     color: #ffffff;
     font-size: 0.85rem; }
   .p_page__grid {
-    height: 350px;
+    height: 450px;
     position: relative;
     display: -ms-grid;
     display: grid;
@@ -9378,7 +9378,7 @@ header {
     .p_page__item:first-child {
       padding: 2rem; }
     .p_page__item__img {
-      height: 350px;
+      height: 450px;
       -webkit-clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 5% 0);
       clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 5% 0); }
     .p_page__item__title {
