@@ -32,7 +32,7 @@ Template Name: Грузы по Украине
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-12 p_page__block mb-5">
+			<div id="avtotransport" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
@@ -54,7 +54,7 @@ Template Name: Грузы по Украине
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12 p_page__block mb-5">
+			<div id="pallet" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
@@ -76,7 +76,7 @@ Template Name: Грузы по Украине
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12 p_page__block mb-5">
+			<div id="promobor" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
@@ -99,7 +99,7 @@ Template Name: Грузы по Украине
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12 p_page__block mb-5">
+			<div id="stroitel" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
@@ -121,7 +121,7 @@ Template Name: Грузы по Украине
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12 p_page__block mb-5">
+			<div id="narodtovar" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
@@ -143,7 +143,7 @@ Template Name: Грузы по Украине
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12 p_page__block mb-5">
+			<div id="productpitanie" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
@@ -165,7 +165,7 @@ Template Name: Грузы по Украине
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12 p_page__block mb-5">
+			<div id="promothod" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
@@ -187,7 +187,7 @@ Template Name: Грузы по Украине
 					</div>
 				</div>
 			</div>
-			<div class="col-md-12 p_page__block mb-5">
+			<div id="homeandoffice" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">

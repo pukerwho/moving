@@ -3,42 +3,42 @@
     <div class="lead mb-3">Грузы<br>по Украине</div>
     <div>
       <li>
-        <a href="#">
+        <a href="/poukraine#avtotransport">
           Автотранспорт
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/poukraine#pallet">
           Паллетные грузы
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/poukraine#promobor">
           Промышленное оборудование
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/poukraine#stroitel">
           Строительные материалы
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/poukraine#narodtovar">
           Товары народного потребления
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/poukraine#productpitanie">
           Продукты питания
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/poukraine#promothod">
           Промышленные отходы
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/poukraine#homeandoffice">
           Офисные и домашние переезды
         </a>
       </li>
