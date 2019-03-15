@@ -36,7 +36,7 @@
 						</div>
 						<div class="">
 							<a href="<?php echo get_permalink( rwmb_meta( 'meta-other-page' ) ) ?>">
-								<div class="my-btn modal-price-btn">
+								<div class="my-btn">
 									Подробнее
 								</div>
 							</a>
