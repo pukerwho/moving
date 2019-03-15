@@ -9020,6 +9020,8 @@ header {
     display: none; }
   .header__fixed .header__menu a {
     color: #484848; }
+  .header__fixed .header__submenu {
+    top: 60px; }
   .header__fixed .header__bottom {
     position: absolute;
     right: 15px;
