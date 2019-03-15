@@ -138,22 +138,22 @@
     <div class="lead mb-3">Грузчики,<br>упаковка</div>
     <div>
       <li>
-        <a href="#">
+        <a href="/gruzchiki-upakovka#uslugigruzchikov">
           Услуги грузчиков
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/gruzchiki-upakovka#upakovkamaterial">
           Упаковочные материалы
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/gruzchiki-upakovka#sborkamebeli">
           Услуга сборки/разборки мебели
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/gruzchiki-upakovka#hranenie">
           Ответственное хранение
         </a>
       </li>

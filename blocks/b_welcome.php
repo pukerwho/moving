@@ -55,7 +55,7 @@
 								<p>Способы перевозки</p>
 							</div>
 						</a>
-						<a href="#">
+						<a href="/specperevozki">
 							<div class="b_welcome__item">
 								<img src="<?php bloginfo('template_url') ?>/img/frontal-truck.svg" width="35px" alt="" class="mb-2">
 								<p>Специализированные грузоперевозки</p>
