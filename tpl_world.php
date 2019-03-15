@@ -32,7 +32,7 @@ Template Name: Международные перевозки
 			</div>
 		</div>
 		<div class="row">
-			<div id="avtotransport" class="col-md-12 p_page__block mb-5">
+			<div id="worldcommerce" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
@@ -54,7 +54,7 @@ Template Name: Международные перевозки
 					</div>
 				</div>
 			</div>
-			<div id="avtotransport" class="col-md-12 p_page__block mb-5">
+			<div id="worldhuman" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">

@@ -48,12 +48,12 @@
     <div class="lead mb-3">Международные перевозки</div>
     <div>
       <li>
-        <a href="#">
+        <a href="/world#worldcommerce">
           Международная перевозка коммерческих грузов
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/world#worldhuman">
           Международные перевозки для физических лиц
         </a>
       </li>
@@ -63,12 +63,12 @@
     <div class="lead mb-3">Международные переезды</div>
     <div>
       <li>
-        <a href="#">
+        <a href="/perevozka-lichnih-veshey-za-granitsu/">
           Перевозка личных вещей за границу
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/pereezd-kvartiti-doma-ofica-za-granitsu/">
           Переезд квартиры, дома или офиса за границу
         </a>
       </li>
