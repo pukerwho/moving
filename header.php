@@ -79,8 +79,8 @@
                 'menu_id' => 'ul_head_menu'
               ]); ?> -->
             </div>
-            <?php get_template_part('blocks/header/header__submenu') ?>
           </div>
+          <?php get_template_part('blocks/header/header__submenu') ?>
         </div>
       </div>
     </div>
