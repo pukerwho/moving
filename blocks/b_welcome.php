@@ -61,7 +61,7 @@
 								<p>Специализированные грузоперевозки</p>
 							</div>
 						</a>
-						<a href="#">
+						<a href="/gruzchiki-upakovka">
 							<div class="b_welcome__item">
 								<img src="<?php bloginfo('template_url') ?>/img/delivery-man.svg" width="35px" alt="" class="mb-2">
 								<p>Грузчики,<br>упаковка</p>
