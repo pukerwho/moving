@@ -9399,6 +9399,32 @@ header {
       .p_page__block:nth-child(odd) .p_page__grid .p_page__item:last-child .p_page__item__img {
         -webkit-clip-path: polygon(100% 0, 100% 0%, 95% 100%, 0 100%, 0 0);
         clip-path: polygon(100% 0, 100% 0%, 95% 100%, 0 100%, 0 0); }
+  .p_page__square {
+    height: 400px;
+    position: relative;
+    -webkit-border-radius: 1rem;
+    border-radius: 1rem; }
+    .p_page__square__title {
+      position: absolute;
+      bottom: 30px;
+      left: 0;
+      right: 0;
+      color: #ffffff;
+      font-size: 1.86rem;
+      text-align: center;
+      z-index: 3;
+      padding: 0 30px; }
+    .p_page__square__cover {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top: 0;
+      background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.79)));
+      background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.79) 100%);
+      background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.79) 100%);
+      background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.79) 100%);
+      -webkit-border-radius: 1rem;
+      border-radius: 1rem; }
 
 .modal-open {
   overflow: hidden; }
