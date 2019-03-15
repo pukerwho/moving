@@ -49,7 +49,7 @@
 								<p>Международные переезды</p>
 							</div>
 						</a>
-						<a href="#">
+						<a href="/sposoby-dostavki">
 							<div class="b_welcome__item">
 								<img src="<?php bloginfo('template_url') ?>/img/moving-truck.svg" width="35px" alt="" class="mb-2">
 								<p>Способы перевозки</p>

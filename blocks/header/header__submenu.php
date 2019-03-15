@@ -103,32 +103,32 @@
     <div class="lead mb-3">Специализированные грузоперевозки</div>
     <div>
       <li>
-        <a href="#">
+        <a href="/specperevozki#refregeratorniy">
           Рефрижераторные перевозки
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/specperevozki#opacniygruzi">
           Перевозки опасных грузов
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/specperevozki#negabarit">
           Перевозки негабаритных грузов
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/specperevozki#sipuchie">
           Сыпучие грузы
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/specperevozki#nalivgruzi">
           Наливные грузы
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/specperevozki#perevozkaskota">
           Перевозка скота
         </a>
       </li>
