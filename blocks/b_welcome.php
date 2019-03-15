@@ -31,19 +31,19 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="b_welcome__grid">
-						<a href="#">
+						<a href="/poukraine">
 							<div class="b_welcome__item">
 								<img src="<?php bloginfo('template_url') ?>/img/shipped.svg" width="35px" alt="" class="mb-2">
 								<p>Грузы<br>по Украине</p>
 							</div>
 						</a>
-						<a href="#">
+						<a href="/world">
 							<div class="b_welcome__item">
 								<img src="<?php bloginfo('template_url') ?>/img/worldwide.svg" width="35px" alt="" class="mb-2">
 								<p>Международные перевозки</p>
 							</div>	
 						</a>
-						<a href="#">
+						<a href="/worldgo">
 							<div class="b_welcome__item">
 								<img src="<?php bloginfo('template_url') ?>/img/position.svg" width="35px" alt="" class="mb-2">
 								<p>Международные переезды</p>
