@@ -109,3 +109,35 @@ function loadmore_ajax_handler(){
 
 add_action('wp_ajax_loadmore', 'loadmore_ajax_handler'); 
 add_action('wp_ajax_nopriv_loadmore', 'loadmore_ajax_handler'); 
+
+function your_prefix_get_meta_box( $meta_boxes ) {
+  $prefix = 'meta-';
+
+  $meta_boxes[] = array(
+    'id' => 'page-info',
+    'title' => esc_html__( 'Информация', 'hotels-info' ),
+    'post_types' => array( 'page' ),
+    'context' => 'advanced',
+    'priority' => 'default',
+    'autosave' => true,
+    'fields' => array(
+      array(
+            'name'        => 'Дополнительный пост',
+            'id'          => $prefix . 'other-page',
+            'type'        => 'post',
+
+            // Post type.
+            'post_type'   => 'page',
+
+            // Field type.
+            'field_type'  => 'select_advanced',
+
+            // Placeholder, inherited from `select_advanced` field.
+            'placeholder' => 'Выбрать пост',
+        ),
+    ),
+  );
+
+  return $meta_boxes;
+}
+add_filter( 'rwmb_meta_boxes', 'your_prefix_get_meta_box' );
