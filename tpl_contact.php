@@ -23,7 +23,9 @@ Template Name: Контакты
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-md-8">
-				<?php echo do_shortcode('[contact-form-7 id="41" title="Контакты"]') ?>
+				<div class="b_contact__form">
+					<?php echo do_shortcode('[contact-form-7 id="41" title="Контакты"]') ?>	
+				</div>
 			</div>
 		</div>
 	</div>
