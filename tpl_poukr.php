@@ -49,7 +49,7 @@ Template Name: Грузы по Украине
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/avtotransport.jpg" alt="">	
 						</div>
 					</div>
 				</div>

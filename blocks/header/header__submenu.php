@@ -78,22 +78,22 @@
     <div class="lead mb-3">Способы<br>перевозки</div>
     <div>
       <li>
-        <a href="#">
+        <a href="/sposoby-dostavki#perevozkanazem">
           Перевозка наземным <br>транспортом
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/sposoby-dostavki#perevozkaavia">
           Перевозка авиатранспортом
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/sposoby-dostavki#perevozkacontainer">
           Контейнерная перевозка
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="/sposoby-dostavki#perevozkatransporta">
           Перевозка автотранспорта, водного транспорта за границу
         </a>
       </li>
