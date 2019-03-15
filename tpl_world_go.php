@@ -35,7 +35,7 @@ Template Name: Международные переезды
 		</div>
 		<div class="row">
 			<div class="col-md-6">
-				<a href="#">
+				<a href="/perevozka-lichnih-veshey-za-granitsu">
 					<div class="p_page__square" style="background: url('<?php bloginfo('template_url') ?>/img/lichni-zagranitsu.jpg'); background-position: 50%;">
 						<div class="p_page__square__title">
 							Перевозка личных вещей за границу	
@@ -45,7 +45,7 @@ Template Name: Международные переезды
 				</a>
 			</div>
 			<div class="col-md-6">
-				<a href="#">
+				<a href="/pereezd-kvartiti-doma-ofica-za-granitsu">
 					<div class="p_page__square" style="background: url('<?php bloginfo('template_url') ?>/img/kvartira-zagranicu.jpg'); background-position: 50%;">
 						<div class="p_page__square__title">
 							Переезд квартиры, дома или офиса за границу

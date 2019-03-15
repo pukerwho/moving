@@ -35,9 +35,11 @@
 							<?php echo get_the_title( rwmb_meta( 'meta-other-page' ) ); ?>
 						</div>
 						<div class="">
-							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
-							</div>	
+							<a href="<?php echo get_permalink( rwmb_meta( 'meta-other-page' ) ) ?>">
+								<div class="my-btn modal-price-btn">
+									Подробнее
+								</div>
+							</a>
 						</div>
 					</div>
 					<div class="p_page__item">
