@@ -92,11 +92,11 @@
           Контейнерная перевозка
         </a>
       </li>
-      <li>
+      <!-- <li>
         <a href="/sposoby-dostavki#perevozkatransporta">
           Перевозка автотранспорта, водного транспорта за границу
         </a>
-      </li>
+      </li> -->
     </div>
   </div>
   <div class="header__submenu__item">

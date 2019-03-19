@@ -43,7 +43,7 @@ Template Name: Грузы по Украине
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -65,7 +65,7 @@ Template Name: Грузы по Украине
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -88,7 +88,7 @@ Template Name: Грузы по Украине
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -110,7 +110,7 @@ Template Name: Грузы по Украине
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -132,7 +132,7 @@ Template Name: Грузы по Украине
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -154,7 +154,7 @@ Template Name: Грузы по Украине
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -176,7 +176,7 @@ Template Name: Грузы по Украине
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -199,7 +199,7 @@ Template Name: Грузы по Украине
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>

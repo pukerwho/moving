@@ -44,7 +44,7 @@ Template Name: Международные перевозки
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -67,7 +67,7 @@ Template Name: Международные перевозки
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>

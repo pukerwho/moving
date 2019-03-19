@@ -43,7 +43,7 @@ Template Name: Способы доставки
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -69,7 +69,7 @@ Template Name: Способы доставки
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -91,7 +91,7 @@ Template Name: Способы доставки
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
-								Расчитать стоимость
+								Раcсчитать стоимость
 							</div>	
 						</div>
 					</div>
@@ -102,7 +102,7 @@ Template Name: Способы доставки
 					</div>
 				</div>
 			</div>
-			<div id="perevozkatransporta" class="col-md-12 p_page__block mb-5">
+			<!-- <div id="perevozkatransporta" class="col-md-12 p_page__block mb-5">
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
@@ -123,7 +123,7 @@ Template Name: Способы доставки
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>
