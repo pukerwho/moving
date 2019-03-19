@@ -50,3 +50,9 @@ $(document).on('click', '.modal-price__close', function(){
   $('body').removeClass('modal-open');
   $('.modal-bg').removeClass('modal-bg__open');
 });  
+
+//Биография
+$(document).on('click', '.b_ukraine__button', function(){
+  $('.b_ukraine__text-hidden').addClass('b_ukraine__text-show');
+  $('.b_ukraine__button').hide();
+})

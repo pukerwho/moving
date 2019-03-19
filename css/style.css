@@ -9271,7 +9271,30 @@ header {
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%); }
+  .b_ukraine__text-hidden {
+    display: inline-block;
+    height: 0px;
+    overflow: hidden;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s; }
+  .b_ukraine__text-show {
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+    -webkit-animation: b_ukraine__text_show 0.5s forwards;
+    animation: b_ukraine__text_show 0.5s forwards; }
 
+@-webkit-keyframes b_ukraine__text_show {
+  0% {
+    height: 0; }
+  100% {
+    height: auto; } }
+@keyframes b_ukraine__text_show {
+  from {
+    height: 0%; }
+  to {
+    height: 100%; } }
 .b_contact__box {
   position: relative;
   background-color: #ffffff;
@@ -9387,7 +9410,7 @@ header {
       color: #484848;
       font-size: 1.8rem; }
     .p_page__item__text {
-      font-size: 0.9rem;
+      font-size: 0.8rem;
       direction: ltr; }
     .p_page__item img {
       width: 100%;

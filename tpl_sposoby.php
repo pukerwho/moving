@@ -27,7 +27,7 @@ Template Name: Способы доставки
 		<div class="row mb-5">
 			<div class="col-md-12">
 				<div class="lead">
-					Text
+					Для перемещения грузов в любую точку мира компания Worldmoving предлагает разные способы доставки.
 				</div>
 			</div>
 		</div>
@@ -39,7 +39,7 @@ Template Name: Способы доставки
 							Перевозка наземным транспортом
 						</div>
 						<div class="p_page__item__text mb-5">
-							
+							Все виды грузовых авто для перевозок по суше.
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">
@@ -49,7 +49,7 @@ Template Name: Способы доставки
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/perevozkanazemnim.jpg" alt="">	
 						</div>
 					</div>
 				</div>
@@ -75,7 +75,7 @@ Template Name: Способы доставки
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/aviaperevozky.jpg" alt="">	
 						</div>
 					</div>
 				</div>
@@ -87,7 +87,7 @@ Template Name: Способы доставки
 							Контейнерная перевозка
 						</div>
 						<div class="p_page__item__text mb-5">
-							
+							Отправка грузов по морю.<br>Подача контейнера под загрузку.<br>Таможенное оформление груза.
 						</div>
 						<div class="">
 							<div class="my-btn modal-price-btn">

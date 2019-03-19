@@ -25,9 +25,9 @@ Template Name: Международные перевозки
 	</div>
 	<div class="container">
 		<div class="row mb-5">
-			<div class="col-md-12">
+			<div class="col-md-12 text-center">
 				<div class="lead">
-					Многолетний опыт наших менеджеров и консультантов в организации грузовых перевозок разной сложности и характера позволяет гарантировать качество и ответственность в работе компании Worldmoving.
+					Решения задач по перемещению Ваших грузов по всему миру
 				</div>
 			</div>
 		</div>
@@ -50,7 +50,7 @@ Template Name: Международные перевозки
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/worldperevozkcommerce.jpg" alt="">	
 						</div>
 					</div>
 				</div>
@@ -73,7 +73,7 @@ Template Name: Международные перевозки
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/worldperevozkyfizliz.jpg" alt="">	
 						</div>
 					</div>
 				</div>
