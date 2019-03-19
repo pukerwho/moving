@@ -73,7 +73,7 @@ Template Name: Международные перевозки
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="<?php bloginfo('template_url') ?>/img/worldperevozkyfizliz.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/worldperevizkifizliz.jpg" alt="">	
 						</div>
 					</div>
 				</div>
