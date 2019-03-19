@@ -19,14 +19,14 @@ $('.counter').counterUp({
 });
 
 var options = {
-  strings: ["Украине", "Европе", "Австралии"],
+  stringsElement: '#typed-strings',
   typeSpeed: 40,
   backSpeed: 40,
   loop: true,
 }
 
-if ($('.typed').length > 0) {
-  var typed = new Typed(".typed", options);
+if ($('#typed').length > 0) {
+  var typed = new Typed("#typed", options);
 }
 
 $('.header__services').mouseover(function() {

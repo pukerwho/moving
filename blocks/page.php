@@ -20,6 +20,15 @@
 				</div>
 			</div>
 		</div>
+		<div class="row mb-5 pb-3">
+			<div class="col-md-12 text-center">
+				<div>
+					<div class="my-btn modal-price-btn">
+						Раcсчитать стоимость
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="row mb-5">
 			<div class="col-md-12 text-center text-uppercase">
 				<h3>

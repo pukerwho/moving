@@ -1,14 +1,14 @@
 <div class="b_welcome">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8">
+			<div class="col-md-12 text-center">
 				<div class="b_welcome__block">
-					<div class="b_welcome__title mb-3">
-						Мир грузовых перевозок
-					</div>
-					<div class="b_welcome__desc mb-5">
+					<div class="b_welcome__title mb-5 pb-4">
 						Грузовые перевозки по Украине и всему миру
 					</div>
+					<!-- <div class="b_welcome__desc mb-5">
+						Грузовые перевозки по Украине и всему миру
+					</div> -->
 					<div class="my-btn modal-price-btn">
 						Расчитать стоимость
 					</div>

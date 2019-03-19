@@ -149,7 +149,7 @@
       </li>
       <li>
         <a href="/gruzchiki-upakovka#sborkamebeli">
-          Услуга сборки/разборки мебели
+          Услуга сборки и разборки мебели
         </a>
       </li>
       <li>
