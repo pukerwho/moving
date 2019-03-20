@@ -27,7 +27,68 @@ Template Name: Грузчики, упаковка
 		<div class="row mb-5">
 			<div class="col-md-12">
 				<div class="lead">
-					Text
+					<div class="text-center mb-4">
+						Все виды работ по упаковке, погрузке и выгрузке, разборке и сборке мебели, хранение грузов и багажа.	
+					</div>
+					<div class="text-center text-uppercase mb-3">
+						Муверы компании Worldmoving:
+					</div>
+					<div class="p_page__list d-flex align-items-center mb-4">
+						<div class="p_page__list-icon mr-4">
+							<img src="<?php bloginfo('template_url') ?>/img/tick.svg" width="25px" alt="">
+						</div>
+						<div class="p_page__list-text">
+							перемещают тяжести разного веса, понимая, какие инструменты и приспособления для этого необходимы;	
+						</div>
+					</div>
+					<div class="p_page__list d-flex align-items-center mb-4">
+						<div class="p_page__list-icon mr-4">
+							<img src="<?php bloginfo('template_url') ?>/img/tick.svg" width="25px" alt="">
+						</div>
+						<div class="p_page__list-text">
+							разбирают и собирают любую мебель;
+						</div>
+					</div>
+					<div class="p_page__list d-flex align-items-center mb-4">
+						<div class="p_page__list-icon mr-4">
+							<img src="<?php bloginfo('template_url') ?>/img/tick.svg" width="25px" alt="">
+						</div>
+						<div class="p_page__list-text">
+							подбирают упаковочный материал, разбираясь в его многообразии, оценивая его необходимое количество и логическое предназначение;	
+						</div>
+					</div>
+					<div class="p_page__list d-flex align-items-center mb-4">
+						<div class="p_page__list-icon mr-4">
+							<img src="<?php bloginfo('template_url') ?>/img/tick.svg" width="25px" alt="">
+						</div>
+						<div class="p_page__list-text">
+							заранее планируют работу на объекте, разбираясь в планах и чертежах;
+						</div>
+					</div>
+					<div class="p_page__list d-flex align-items-center mb-4">
+						<div class="p_page__list-icon mr-4">
+							<img src="<?php bloginfo('template_url') ?>/img/tick.svg" width="25px" alt="">
+						</div>
+						<div class="p_page__list-text">
+							всегда опрятны и вежливы, поскольку представляют собой лицо компании;
+						</div>
+					</div>
+					<div class="p_page__list d-flex align-items-center mb-4">
+						<div class="p_page__list-icon mr-4">
+							<img src="<?php bloginfo('template_url') ?>/img/tick.svg" width="25px" alt="">
+						</div>
+						<div class="p_page__list-text">
+							несут ответственность за качество своей работы и вещи клиентов;
+						</div>
+					</div>
+					<div class="p_page__list d-flex align-items-center">
+						<div class="p_page__list-icon mr-4">
+							<img src="<?php bloginfo('template_url') ?>/img/tick.svg" width="25px" alt="">
+						</div>
+						<div class="p_page__list-text">
+							проходят специальное обучение для совершенствования своих навыков и знаний;
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

@@ -181,6 +181,28 @@ Template Name: Специализированные перевозки
 					</div>
 				</div>
 			</div>
+			<div id="perevozkavodnogo" class="col-md-12 p_page__block mb-5">
+				<div class="p_page__grid">
+					<div class="p_page__item">
+						<div class="p_page__item__title mb-3">
+							Перевозка водного транспорта
+						</div>
+						<div class="p_page__item__text mb-5">
+							
+						</div>
+						<div class="">
+							<div class="my-btn modal-price-btn">
+								Рассчитать стоимость
+							</div>	
+						</div>
+					</div>
+					<div class="p_page__item">
+						<div class="p_page__item__img">
+							<img src="<?php bloginfo('template_url') ?>/img/perevozkazagranicuavto.jpg" alt="">	
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
