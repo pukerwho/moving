@@ -18,6 +18,12 @@ Template Name: Главная
 	<?php get_template_part('blocks/b_ukraine') ?>
 </section>
 
+<div class="pc-show">
+	<section id="video">
+		<?php get_template_part('blocks/b_video') ?>
+	</section>
+</div>
+
 <section id="b_price">
 	<?php get_template_part('blocks/b_price') ?>
 </section>

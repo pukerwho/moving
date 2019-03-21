@@ -56,3 +56,12 @@ $(document).on('click', '.b_ukraine__button', function(){
   $('.b_ukraine__text-hidden').addClass('b_ukraine__text-show');
   $('.b_ukraine__button').hide();
 })
+
+//Video 
+$(".b_video").mouseover(function(){
+  $('.b_video>video').get(0).play();
+});
+
+$(".b_video").mouseleave(function(){
+  $('.b_video>video').get(0).pause();
+});
