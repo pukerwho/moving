@@ -1,6 +1,6 @@
 <div class="header__submenu">
   <div class="header__submenu__item">
-    <div class="lead mb-3">Грузы<br>по Украине</div>
+    <a href="/poukraine/"><div class="lead mb-3">Грузы<br>по Украине</div></a>
     <div>
       <li>
         <a href="/poukraine#avtotransport">
@@ -45,7 +45,7 @@
     </div>
   </div>
   <div class="header__submenu__item">
-    <div class="lead mb-3">Международные перевозки</div>
+    <a href="/world"><div class="lead mb-3">Международные перевозки</div></a>
     <div>
       <li>
         <a href="/world#worldcommerce">
@@ -60,7 +60,7 @@
     </div>
   </div>
   <div class="header__submenu__item">
-    <div class="lead mb-3">Международные переезды</div>
+    <a href="/worldgo"><div class="lead mb-3">Международные переезды</div></a>
     <div>
       <li>
         <a href="/perevozka-lichnih-veshey-za-granitsu/">
@@ -75,7 +75,7 @@
     </div>
   </div>
   <div class="header__submenu__item">
-    <div class="lead mb-3">Способы<br>перевозки</div>
+    <a href="/sposoby-dostavki"><div class="lead mb-3">Способы<br>перевозки</div></a>
     <div>
       <li>
         <a href="/sposoby-dostavki#perevozkanazem">
@@ -100,7 +100,7 @@
     </div>
   </div>
   <div class="header__submenu__item">
-    <div class="lead mb-3">Специализированные грузоперевозки</div>
+    <a href="/specperevozki"><div class="lead mb-3">Специализированные грузоперевозки</div></a>
     <div>
       <li>
         <a href="/specperevozki#refregeratorniy">
@@ -140,7 +140,7 @@
     </div>
   </div>
   <div class="header__submenu__item">
-    <div class="lead mb-3">Грузчики,<br>упаковка</div>
+    <a href="/gruzchiki-upakovka"><div class="lead mb-3">Грузчики,<br>упаковка</div></a>
     <div>
       <li>
         <a href="/gruzchiki-upakovka#uslugigruzchikov">

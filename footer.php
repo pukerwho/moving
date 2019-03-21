@@ -8,19 +8,19 @@
     				</div>
     				<div class="lead">
     					<i class="fas fa-phone-square mr-2"></i>
-    					<a href="#">099-123-45-67</a>
+    					<a href="tel:+38 (066) 160-1-444">+38 (066) 160-1-444</a>
     				</div>
     				<div class="lead">
     					<i class="fas fa-phone-square mr-2"></i>
-    					<a href="#">099-123-45-67</a>
+    					<a href="tel:+38 (063) 160-1-444">+38 (063) 160-1-444</a>
     				</div>
     				<div class="lead mb-4">
     					<i class="fas fa-phone-square mr-2"></i>
-    					<a href="#">099-123-45-67</a>
+    					<a href="tel:+38 (097) 125-2-444">+38 (097) 125-2-444</a>
     				</div>
     				<div class="lead mb-4">
     					<i class="far fa-envelope-open mr-2"></i>
-    					<a href="#">email@email.com</a>
+    					<a href="mailto:ua.worldmoving@gmail.com">ua.worldmoving@gmail.com</a>
     				</div>
     				<div class="social d-flex justify-content-center mb-4">
     					<a href="#">
