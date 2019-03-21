@@ -9322,6 +9322,8 @@ header {
   border-radius: 50px;
   padding: 1.3em 4em !important;
   cursor: pointer; }
+.b_contact__map {
+  height: 100%; }
 
 .b_video {
   height: 450px;
