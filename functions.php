@@ -109,6 +109,23 @@ function loadmore_ajax_handler(){
 add_action('wp_ajax_loadmore', 'loadmore_ajax_handler'); 
 add_action('wp_ajax_nopriv_loadmore', 'loadmore_ajax_handler'); 
 
+function create_post_type() {
+  register_post_type( 'articles',
+    array(
+      'labels' => array(
+        'name' => __( 'Статьи' ),
+        'singular_name' => __( 'Статья' )
+      ),
+      'public' => true,
+      'has_archive' => true,
+      'hierarchical' => true,
+      'supports' => array( 'title', 'editor', 'author', 'thumbnail', 'excerpt', 'comments' ),
+    )
+  );
+}
+
+add_action( 'init', 'create_post_type' ); 
+
 function your_prefix_get_meta_box( $meta_boxes ) {
   $prefix = 'meta-';
 

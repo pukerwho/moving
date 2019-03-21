@@ -45,13 +45,30 @@
             </div>
             
             <div class="header__contact pc-show">
-              <div class="d-flex align-items-center">
-                <img src="<?php bloginfo('template_url') ?>/img/call-answer.svg" width="35px" alt="" class="mr-3">
-                <div>
-                  <span class="font-weight-bold">Звоните:</span>
-                  <br>099-999-99-99
+              <div class="d-flex">
+                <div class="d-flex align-items-center mr-5">
+                  <img src="<?php bloginfo('template_url') ?>/img/call-answer.svg" width="35px" alt="" class="mr-3">
+                  <div class="mr-5">
+                    <span class="font-weight-bold">Звоните:</span>
+                    <br>
+                    <a href="tel:+38 (066) 160-1-444">+38 (066) 160-1-444</a>
+                  </div>
+                  <div>
+                    <a href="tel:+38 (063) 160-1-444">+38 (063) 160-1-444</a>
+                    <br>
+                    <a href="tel:+38 (097) 125-2-444">+38 (097) 125-2-444</a>
+                  </div>
+                </div>
+                <div class="d-flex align-items-center">
+                  <img src="<?php bloginfo('template_url') ?>/img/mail.svg" width="35px" alt="" class="mr-3">
+                  <div>
+                    <span class="font-weight-bold">Пишите:</span>
+                    <br>
+                    <a href="mailto:ua.worldmoving@gmail.com">ua.worldmoving@gmail.com</a>
+                  </div>
                 </div>
               </div>
+              
             </div>
           </div>
           <div class="header__bottom d-flex justify-content-end py-3">
