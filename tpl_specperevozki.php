@@ -198,7 +198,7 @@ Template Name: Специализированные перевозки
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="<?php bloginfo('template_url') ?>/img/perevozkazagranicuavto.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/vodniy.jpeg" alt="">	
 						</div>
 					</div>
 				</div>

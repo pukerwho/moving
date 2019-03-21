@@ -71,7 +71,7 @@ Template Name: Грузы по Украине
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/palletniy.jpg" alt="">	
 						</div>
 					</div>
 				</div>
@@ -94,7 +94,7 @@ Template Name: Грузы по Украине
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/promishleniy.jpg" alt="">	
 						</div>
 					</div>
 				</div>
@@ -116,7 +116,7 @@ Template Name: Грузы по Украине
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/stroitelny.jpg" alt="">
 						</div>
 					</div>
 				</div>
@@ -138,7 +138,7 @@ Template Name: Грузы по Украине
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/narodnogo.jpg" alt="">
 						</div>
 					</div>
 				</div>
@@ -160,7 +160,7 @@ Template Name: Грузы по Украине
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/producty.jpg" alt="">	
 						</div>
 					</div>
 				</div>
@@ -182,7 +182,7 @@ Template Name: Грузы по Украине
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/promothody.jpg" alt="">
 						</div>
 					</div>
 				</div>
@@ -205,7 +205,7 @@ Template Name: Грузы по Украине
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
-							<img src="http://wheelco.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/03/hero_inner_services_01.jpg" alt="">	
+							<img src="<?php bloginfo('template_url') ?>/img/oficnie.jpg" alt="">
 						</div>
 					</div>
 				</div>
