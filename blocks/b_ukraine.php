@@ -4,7 +4,8 @@
 			<div class="col-md-8">
 				<h2 class="mb-4">Перевозки грузов<br>
 					<div id="typed-strings">
-					    <p>по <span class='color-yellow'>Украине в Европу</span></p>
+					    <p>по <span class='color-yellow'>Украине</span></p>
+					    <p>в <span class='color-yellow'>Европу</span></p>
 					    <p>в <span class='color-yellow'>США</span></p>
 					    <p>в <span class='color-yellow'>Китай</span></p>
 					    <p>в <span class='color-yellow'>Австралию</span></p>
@@ -24,7 +25,7 @@
 					    <p>в <span class='color-yellow'>Болгарию</span></p>
 					    <p>в <span class='color-yellow'>Италию</span></p>
 					    <p>в <span class='color-yellow'>Испанию</span></p>
-					    <p>в <span class='color-yellow'>Францию</span></p>
+					    <p>во <span class='color-yellow'>Францию</span></p>
 					</div>
 					<span id="typed"></span>
 					<!-- <span class="typed"></span> -->

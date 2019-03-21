@@ -7,7 +7,7 @@
 	<div class="b_video__bg"></div>
 	<div class="b_video__title">
 		<span>
-			Перевозки на грай земли
+			Перевозки на край земли
 		</span>
 	</div>
 </div>
