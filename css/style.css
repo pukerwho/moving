@@ -9550,6 +9550,8 @@ header {
   .b_articles__content {
     background-color: #ffffff;
     padding: 2.25rem 1.75rem; }
+    .b_articles__content img {
+      width: 100%; }
   .b_articles__heading {
     color: #484848;
     font-size: 1.25rem; }
