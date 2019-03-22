@@ -1,5 +1,5 @@
 <div class="b_ukraine">
-	<div class="container py-5">
+	<div class="container p-relative py-5">
 		<div class="row">
 			<div class="col-md-8">
 				<h2 class="mb-4">Перевозки грузов<br>
@@ -42,7 +42,6 @@
 						<br><br>Наш многолетний опыт в области грузовых перевозок и рекомендации постоянных клиентов позволяет нам иметь смелость гарантировать Вам комфортное сотрудничество с нашей командой в организации передвижения Вашего груза в любую точку мира.
 						<br><br>Команда <span class="color-yellow">Worldmoving</span>
 					</span>
-					
 				</div>
 				<div class="my-btn b_ukraine__button">
 					Подробнее
@@ -51,6 +50,6 @@
 		</div>
 	</div>
 	<div class="b_ukraine__map">
-		<img src="<?php bloginfo('template_url') ?>/img/ukraine.svg" width="600px" height="415px" alt="">
-	</div>
+			<img src="<?php bloginfo('template_url') ?>/img/worldLow.svg" width="600px" height="415px" alt="">
+		</div>
 </div>
