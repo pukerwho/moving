@@ -82,7 +82,7 @@
                     <a href="#">Услуги</a>
                   </li>
                   <li>
-                    <a href="#">Статьи</a>
+                    <a href="/articles">Статьи</a>
                   </li>
                   <li>
                     <a href="/contact">Контакты</a>
