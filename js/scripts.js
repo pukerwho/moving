@@ -65,3 +65,16 @@ $(".b_video").mouseover(function(){
 $(".b_video").mouseleave(function(){
   $('.b_video>video').get(0).pause();
 });
+
+//Карта
+if($('.b_ukraine__map'). length){
+  $(window).scroll(function(event){
+    scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    signTop = $('.b_ukraine__map').offset().top - $(window).height() + 5;
+    console.log(scrollTop);
+    console.log(signTop);
+    if (scrollTop > signTop) {
+      $('.b_ukraine__map').css({'display':'block'});
+    }
+  });
+}

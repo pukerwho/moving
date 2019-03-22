@@ -37,14 +37,13 @@
         stroke-miterlimit: 300;
         stroke-dasharray: 1800;
         stroke-dashoffset: 1800;
-        -webkit-animation: write 20s linear forwards;
-        animation: write 20s linear forwards;
+        -webkit-animation: write 15s linear forwards;
+        animation: write 15s linear forwards;
       }
 
       circle {
         stroke-width: 5px;
       }
-
 
       @-webkit-keyframes write {
         to {
