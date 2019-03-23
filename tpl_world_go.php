@@ -34,7 +34,7 @@ Template Name: Международные переезды
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-md-6 mb-5">
 				<a href="/perevozka-lichnih-veshey-za-granitsu">
 					<div class="p_page__square" style="background: url('<?php bloginfo('template_url') ?>/img/lichni-zagranitsu.jpg'); background-position: 50%;">
 						<div class="p_page__square__title">

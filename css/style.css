@@ -9522,7 +9522,7 @@ header {
       color: #ffffff;
       font-size: 1.86rem;
       text-align: center;
-      z-index: 3;
+      z-index: 2;
       padding: 0 30px; }
     .p_page__square__cover {
       height: 100%;
@@ -9855,13 +9855,13 @@ header {
     top: -45px; }
 
   .p_page__welcome {
-    height: 500px;
+    height: 400px;
     -webkit-background-size: cover !important;
     background-size: cover !important; }
   .p_page__title {
     font-size: 1.4rem; }
   .p_page__cover {
-    height: 500px; }
+    height: 400px; }
   .p_page__grid {
     height: 100%;
     -ms-grid-columns: 100%;
