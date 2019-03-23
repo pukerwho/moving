@@ -9764,6 +9764,7 @@ header {
     .mobile-cover a {
       position: relative;
       color: #ffffff;
+      font-size: 1rem;
       font-weight: 800;
       text-transform: uppercase; }
       .mobile-cover a:hover:after {
@@ -9774,10 +9775,8 @@ header {
         left: 0;
         right: 0;
         background-color: #FFAE02; }
-    .mobile-cover li {
-      margin-bottom: 1.5rem; }
-      .mobile-cover li:last-child {
-        margin-bottom: 0; }
+    .mobile-cover li:last-child {
+      margin-bottom: 0; }
     .mobile-cover__open {
       -webkit-transform: translateX(0%);
       -ms-transform: translateX(0%);
@@ -9785,6 +9784,19 @@ header {
       -webkit-transition: all 0.4s;
       -o-transition: all 0.4s;
       transition: all 0.4s; }
+    .mobile-cover .mobile-services {
+      position: relative;
+      color: #ffffff;
+      font-size: 1rem;
+      font-weight: 800;
+      text-transform: uppercase; }
+      .mobile-cover .mobile-services-list {
+        display: none;
+        text-align: center; }
+        .mobile-cover .mobile-services-list a {
+          font-size: 0.85rem; }
+        .mobile-cover .mobile-services-list-open {
+          display: block; }
 
   .b_welcome {
     background-position: 75% 100%; }
@@ -9805,6 +9817,24 @@ header {
   .b_ukraine__map {
     opacity: 0.2; }
 
+  .b_articles__flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column; }
+    .b_articles__flex:nth-child(2n) {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column; }
+    .b_articles__flex:last-child {
+      margin-bottom: 3rem; }
+  .b_articles__info {
+    width: 100%; }
+  .b_articles__img {
+    width: 100%; }
   .b_articles__other {
     -ms-grid-columns: 1fr [1];
     grid-template-columns: repeat(1, 1fr);

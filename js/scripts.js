@@ -4,13 +4,18 @@ $('.mobile-menu').on('click', function(e) {
   $('.mobile-cover').toggleClass('mobile-cover__open');
 });
 
+$('.mobile-services').on('click', function(e) {
+  $('.mobile-services-list').toggleClass('mobile-services-list-open');
+  $('.mobile-services').css({'border-bottom':'2px solid #FFAE02'});
+});
+
 if ($(document).width() > 992) {
   $(window).scroll(function(){
     var h_scroll = $(this).scrollTop();
     if (h_scroll > 20) {
-      $('header').addClass('header__fixed')
+      $('header').addClass('header__fixed');
     } else {
-      $('header').removeClass('header__fixed')
+      $('header').removeClass('header__fixed');
     }
   })
 }
@@ -25,8 +30,6 @@ if ($(document).width() < 992) {
     }
   })
 }
-
-
 
 $('.counter').counterUp({
     delay: 10,

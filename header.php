@@ -38,7 +38,27 @@
               </div>
               <div class="mobile-cover">
                 <li><a href="<?php echo home_url(); ?>">Главная</a></li>
-                <li><a href="#">Услуги</a></li>
+                <li><span class="mobile-services">Услуги</span></li>
+                <div class="mobile-services-list">
+                  <li>
+                    <a href="/poukraine">Грузы по Украине</a>
+                  </li>
+                  <li>
+                    <a href="/world/">Международные перевозки</a>
+                  </li>
+                  <li>
+                    <a href="/worldgo">Международные переезды</a>
+                  </li>
+                  <li>
+                    <a href="/sposoby-dostavki">Способы перевозки</a>
+                  </li>
+                  <li>
+                    <a href="/specperevozki">Специализированные перевозки</a>
+                  </li>
+                  <li>
+                    <a href="/gruzchiki-upakovka">Грузчики, упаковка</a>
+                  </li>
+                </div>
                 <li><a href="/articles">Статьи</a></li>
                 <li><a href="/contact">Контакты</a></li>
               </div>
