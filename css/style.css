@@ -9764,7 +9764,7 @@ header {
     .mobile-cover a {
       position: relative;
       color: #ffffff;
-      font-size: 1rem;
+      font-size: 1.25rem;
       font-weight: 800;
       text-transform: uppercase; }
       .mobile-cover a:hover:after {
@@ -9787,14 +9787,14 @@ header {
     .mobile-cover .mobile-services {
       position: relative;
       color: #ffffff;
-      font-size: 1rem;
+      font-size: 1.25rem;
       font-weight: 800;
       text-transform: uppercase; }
       .mobile-cover .mobile-services-list {
         display: none;
         text-align: center; }
         .mobile-cover .mobile-services-list a {
-          font-size: 0.85rem; }
+          font-size: 1rem; }
         .mobile-cover .mobile-services-list-open {
           display: block; }
 
