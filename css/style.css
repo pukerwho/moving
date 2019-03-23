@@ -9461,7 +9461,7 @@ header {
     color: #ffffff;
     font-size: 0.85rem; }
   .p_page__grid {
-    height: 450px;
+    height: 520px;
     position: relative;
     display: -ms-grid;
     display: grid;
@@ -9486,16 +9486,16 @@ header {
     justify-content: center;
     background-color: #ffffff; }
     .p_page__item:first-child {
-      padding: 2rem; }
+      padding: 1rem 2rem; }
     .p_page__item__img {
-      height: 450px;
+      height: 520px;
       -webkit-clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 5% 0);
       clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 5% 0); }
     .p_page__item__title {
       color: #484848;
       font-size: 1.8rem; }
     .p_page__item__text {
-      font-size: 0.8rem;
+      font-size: 1rem;
       direction: ltr; }
     .p_page__item img {
       width: 100%;
