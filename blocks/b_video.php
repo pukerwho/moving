@@ -7,7 +7,7 @@
 	<div class="b_video__bg"></div>
 	<div class="b_video__title">
 		<span>
-			Перевозки на край земли
+			Перевозки на край света
 		</span>
 	</div>
 </div>

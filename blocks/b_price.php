@@ -17,7 +17,7 @@
 					<div class="b_price__text mb-4">
 						Доставка по городу
 					</div>
-					<div class="my-btn">
+					<div class="my-btn modal-price-btn">
 						Заказать
 					</div>
 				</div>
@@ -33,7 +33,7 @@
 					<div class="b_price__text mb-4">
 						Доставка по Украине
 					</div>
-					<div class="my-btn">
+					<div class="my-btn modal-price-btn">
 						Заказать
 					</div>
 				</div>
@@ -49,7 +49,7 @@
 					<div class="b_price__text mb-4">
 						Международные перевозки
 					</div>
-					<div class="my-btn">
+					<div class="my-btn modal-price-btn">
 						Заказать
 					</div>
 				</div>

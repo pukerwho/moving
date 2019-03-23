@@ -39,7 +39,7 @@
               <div class="mobile-cover">
                 <li><a href="<?php echo home_url(); ?>">Главная</a></li>
                 <li><a href="#">Услуги</a></li>
-                <li><a href="#">Статьи</a></li>
+                <li><a href="/articles">Статьи</a></li>
                 <li><a href="/contact">Контакты</a></li>
               </div>
             </div>

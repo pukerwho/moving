@@ -4,14 +4,29 @@ $('.mobile-menu').on('click', function(e) {
   $('.mobile-cover').toggleClass('mobile-cover__open');
 });
 
-$(window).scroll(function(){
-  var h_scroll = $(this).scrollTop();
-  if (h_scroll > 20) {
-    $('header').addClass('header__fixed')
-  } else {
-    $('header').removeClass('header__fixed')
-  }
-})
+if ($(document).width() > 992) {
+  $(window).scroll(function(){
+    var h_scroll = $(this).scrollTop();
+    if (h_scroll > 20) {
+      $('header').addClass('header__fixed')
+    } else {
+      $('header').removeClass('header__fixed')
+    }
+  })
+}
+
+if ($(document).width() < 992) {
+  $(window).scroll(function(){
+    var h_scroll = $(this).scrollTop();
+    if (h_scroll > 20) {
+      $('header').addClass('header__mobile__fixed')
+    } else {
+      $('header').removeClass('header__mobile__fixed')
+    }
+  })
+}
+
+
 
 $('.counter').counterUp({
     delay: 10,
@@ -42,6 +57,7 @@ $(document).on('click', '.modal-price-btn', function(){
   $('.modal-price').show();
   $('body').addClass('modal-open');
   $('.modal-bg').addClass('modal-bg__open');
+  $('header').css({'z-index':'1'});
 });
 
 $(document).on('click', '.modal-price__close', function(){
@@ -49,6 +65,7 @@ $(document).on('click', '.modal-price__close', function(){
   $('.modal-price').hide();
   $('body').removeClass('modal-open');
   $('.modal-bg').removeClass('modal-bg__open');
+  $('header').css({'z-index':'100'});
 });  
 
 //Биография

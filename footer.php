@@ -18,6 +18,20 @@
     					<i class="fas fa-phone-square mr-2"></i>
     					<a href="tel:+38 (097) 125-2-444">+38 (097) 125-2-444</a>
     				</div>
+                    <div class="lead mb-4">
+                        <div class="text-center">
+                            Viber:
+                        </div>
+                        <i class="fab fa-viber mr-2"></i>
+                        <a href="viber://chat?number=+380635101222">+38 (063) 510-1-222</a>
+                    </div>
+                    <div class="lead mb-4">
+                        <div class="text-center">
+                            WhatsApp:
+                        </div>
+                        <i class="fab fa-whatsapp mr-2"></i>
+                        <a href="https://api.whatsapp.com/send?phone=380635101222">+38 (063) 510-1-222</a>
+                    </div>
     				<div class="lead mb-4">
     					<i class="far fa-envelope-open mr-2"></i>
     					<a href="mailto:ua.worldmoving@gmail.com">ua.worldmoving@gmail.com</a>
