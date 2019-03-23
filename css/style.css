@@ -9858,6 +9858,8 @@ header {
     height: 500px;
     -webkit-background-size: cover !important;
     background-size: cover !important; }
+  .p_page__title {
+    font-size: 1.4rem; }
   .p_page__cover {
     height: 500px; }
   .p_page__grid {
