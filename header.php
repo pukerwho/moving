@@ -21,14 +21,14 @@
 <body <?php echo body_class(); ?>>
   <!-- <div class="preloader"></div> -->
   
-  <header id="header" class="header py-3" role="banner">
+  <header id="header" class="header" role="banner">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="header__top d-flex align-items-center justify-content-between">
             <div class="header__logo">
               <a href="<?php echo home_url(); ?>">
-                <img src="<?php bloginfo('template_url') ?>/img/moving-logo.svg" width="200px" alt="">
+                <img src="<?php bloginfo('template_url') ?>/img/moving-logo.png" width="275px" alt="">
               </a>
             </div>
             <div class="mobile-show">
