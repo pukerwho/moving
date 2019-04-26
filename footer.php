@@ -55,6 +55,13 @@
     				</div>
     				<div class="footer__line mb-4"></div>
     				<div class="copyright">
+                        <?php if( !is_page_template( 'tpl_main.php' )): ?>
+                            2019 &copy; WorldMoving.com.ua
+                        <? else: ?>
+                            2019 &copy; 
+                            <span typeof="v:Breadcrumb"> <a href="http://worldmoving.com.ua/" rel="v:url" property="v:title"> WorldMoving.com.ua</a> › </span> <span typeof="v:Breadcrumb"> <a href="http://worldmoving.com.ua/#best" rel="v:url" property="v:title">Мир грузовых перевозок 🚛</a> </span>
+                        <?php endif ?>
+                        <br>
     					Разработка сайта: <a href="https://timeto.top/" target="_blank">Time2Top</a>
     				</div>
     			</div>
