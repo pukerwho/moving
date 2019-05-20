@@ -59,7 +59,7 @@
                             2019 &copy; WorldMoving.com.ua
                         <? else: ?>
                             2019 &copy; 
-                            <span typeof="v:Breadcrumb"> <a href="http://worldmoving.com.ua/" rel="v:url" property="v:title"> WorldMoving.com.ua</a> › </span> <span typeof="v:Breadcrumb"> <a href="http://worldmoving.com.ua/#best" rel="v:url" property="v:title">Мир грузовых перевозок 🚛</a> </span>
+                            <span typeof="v:Breadcrumb"> <a href="http://worldmoving.com.ua/" rel="v:url" property="v:title"> WorldMoving.com.ua</a> › </span> <span typeof="v:Breadcrumb"> <a href="http://worldmoving.com.ua/#best" rel="v:url" property="v:title">Мир грузовых перевозок</a> </span>
                         <?php endif ?>
                         <br><br>
                         <div>
