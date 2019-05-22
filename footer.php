@@ -37,7 +37,7 @@
     					<a href="mailto:ua.worldmoving@gmail.com">ua.worldmoving@gmail.com</a>
     				</div>
     				<div class="social d-flex justify-content-center mb-4">
-    					<a href="#">
+    					<a href="https://www.facebook.com/Woldmoving.Kravchenko.O.V/" target="_blank">
     						<li>
 	    						<i class="fab fa-facebook-f"></i>	
 	    					</li>
