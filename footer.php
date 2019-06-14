@@ -22,15 +22,37 @@
                         <div class="text-center">
                             Viber:
                         </div>
-                        <i class="fab fa-viber mr-2"></i>
-                        <a href="viber://chat?number=+380635101222">+38 (063) 510-1-222</a>
+                        <div class="d-flex justify-content-center">
+                            <div>
+                                <i class="fab fa-viber mr-2"></i>
+                            </div>
+                            <div>
+                                <div>
+                                    <a href="viber://chat?number=+380968580682 ">+38 (096) 858-06-82 </a>    
+                                </div>
+                                <div>
+                                    <a href="viber://chat?number=+380635101222">+38 (063) 510-1-222</a>    
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div class="lead mb-4">
                         <div class="text-center">
                             WhatsApp:
                         </div>
-                        <i class="fab fa-whatsapp mr-2"></i>
-                        <a href="https://api.whatsapp.com/send?phone=380635101222">+38 (063) 510-1-222</a>
+                        <div class="d-flex justify-content-center">
+                            <div>
+                                <i class="fab fa-whatsapp mr-2"></i>
+                            </div>
+                            <div>
+                                <div>
+                                    <a href="https://api.whatsapp.com/send?phone=380968580682 ">+38 (096) 858-06-82</a>
+                                </div>
+                                <div>
+                                    <a href="https://api.whatsapp.com/send?phone=380635101222">+38 (063) 510-1-222</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
     				<div class="lead mb-4">
     					<i class="far fa-envelope-open mr-2"></i>
