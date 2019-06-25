@@ -96,7 +96,7 @@ Template Name: Международные переезды
 
 					<br><br>Примеры международных переездов из Украины в Европу и в другие страны мира с Worldmoving:
 
-					<div><a href="/pereezd-iz-ukrainy-v-ispaniyu/">Переезд из Украины в Испанию</a></div>
+					<br><div><a href="/pereezd-iz-ukrainy-v-ispaniyu/">Переезд из Украины в Испанию</a></div>
 					<div><a href="/mezhdunarodnyj-pereezd-iz-ukrainy-v-polshu/">Международный переезд из Украины в Польшу</a></div>
 					<div><a href="/pereezd-iz-ukrainy-v-germaniyu/">Переезд из Украины в Германию</a></div>
 					<div><a href="/pereezd-iz-ukrainy-v-chehiyu/">Переезд из Украины в Чехию</a></div>
