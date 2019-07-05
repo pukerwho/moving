@@ -8967,6 +8967,20 @@ h2 {
   font-weight: 900;
   text-transform: uppercase; }
 
+h4 {
+  position: relative;
+  padding-bottom: 15px; }
+  h4:after {
+    content: '';
+    width: 100px;
+    height: 4px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #FFAE02;
+    -webkit-border-radius: 8px;
+    border-radius: 8px; }
+
 a:hover {
   text-decoration: none; }
 

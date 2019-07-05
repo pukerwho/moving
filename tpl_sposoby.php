@@ -87,11 +87,11 @@ Template Name: Способы доставки
 						<div class="p_page__item__text mb-5">
 							Отправка грузов по морю.<br>Подача контейнера под загрузку.<br>Таможенное оформление груза.
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/kontejnernaya-perevozka/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">

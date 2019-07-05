@@ -28,7 +28,7 @@
         </a>
       </li>
       <li>
-        <a href="/poukraine#productpitanie">
+        <a href="/produkty-pitaniya/">
           Продукты питания
         </a>
       </li>
@@ -38,7 +38,7 @@
         </a>
       </li>
       <li>
-        <a href="/poukraine#homeandoffice">
+        <a href="/ofisnye-i-domashnie-pereezdy/">
           Офисные и домашние переезды
         </a>
       </li>
@@ -88,7 +88,7 @@
         </a>
       </li>
       <li>
-        <a href="/sposoby-dostavki#perevozkacontainer">
+        <a href="/kontejnernaya-perevozka/">
           Контейнерная перевозка
         </a>
       </li>
@@ -113,7 +113,7 @@
         </a>
       </li>
       <li>
-        <a href="/specperevozki#negabarit">
+        <a href="/perevozki-negabaritnyh-gruzov/">
           Перевозки негабаритных грузов
         </a>
       </li>
@@ -123,12 +123,12 @@
         </a>
       </li>
       <li>
-        <a href="/specperevozki#nalivgruzi">
+        <a href="/nalivnye-gruzy/">
           Наливные грузы
         </a>
       </li>
       <li>
-        <a href="/specperevozki#perevozkaskota">
+        <a href="/perevozka-skota/">
           Перевозка скота
         </a>
       </li>
