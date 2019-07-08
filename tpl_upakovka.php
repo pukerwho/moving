@@ -102,11 +102,11 @@ Template Name: Грузчики, упаковка
 						<div class="p_page__item__text mb-5">
 							Погрузка и выгрузка Вашей мебели и вещей, подъем и снос с этажа габаритных или тяжелых предметов таких, как холодильник, пианино, кровать, сейф и т.д.
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/uslugi-gruzchikov/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
@@ -168,11 +168,11 @@ Template Name: Грузчики, упаковка
 						<div class="p_page__item__text mb-5">
 							Хранение вещей, мебели, багажа различного объема на любые сроки.
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/otvetstvennoe-hranenie/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">

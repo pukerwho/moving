@@ -103,7 +103,7 @@
     <a href="/specperevozki"><div class="lead mb-3">Специализированные грузоперевозки</div></a>
     <div>
       <li>
-        <a href="/specperevozki#refregeratorniy">
+        <a href="/refrizheratornye-perevozki/">
           Рефрижераторные перевозки
         </a>
       </li>
@@ -133,7 +133,7 @@
         </a>
       </li>
       <li>
-        <a href="/specperevozki#perevozkavodnogo">
+        <a href="/perevozka-vodnogo-transporta/">
           Перевозка водного транспорта
         </a>
       </li>
@@ -143,7 +143,7 @@
     <a href="/gruzchiki-upakovka"><div class="lead mb-3">Грузчики,<br>упаковка</div></a>
     <div>
       <li>
-        <a href="/gruzchiki-upakovka#uslugigruzchikov">
+        <a href="/uslugi-gruzchikov/">
           Услуги грузчиков
         </a>
       </li>
@@ -158,7 +158,7 @@
         </a>
       </li>
       <li>
-        <a href="/gruzchiki-upakovka#hranenie">
+        <a href="/otvetstvennoe-hranenie/">
           Ответственное хранение
         </a>
       </li>

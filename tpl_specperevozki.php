@@ -43,11 +43,11 @@ Template Name: Специализированные перевозки
 							<br><br>К грузам подобного характера в первую очередь относится продовольственная продукция, срок хранения которой имеет ограничения, продовольственные товары, для хранения которых требуется особый диапазон температурного режима.
 							<br><br>Рефрижераторные перевозки осуществляются специальным транспортом, который представляет из себя изотермический фургон или автопоезд-рефрижератор с полуприцепом. 
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/refrizheratornye-perevozki/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
@@ -193,11 +193,11 @@ Template Name: Специализированные перевозки
 							<br><br>
 							<a href="#" data-toggle="modal" data-target="#vodniyModal">Далее</a>
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Рассчитать стоимость
+						<a href="/perevozka-vodnogo-transporta/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
