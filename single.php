@@ -45,6 +45,9 @@
 			foreach ($current_term as $myterm): ?>
 				<?php if ($myterm->cat_ID === 3): ?>
 					<div class="row mt-5">
+						<div class="col-md-12 text-center text-uppercase mb-5">
+							<h3>Еще переезды</h3>
+						</div>
 						<?php 
 							$current_term = get_the_category();
 							foreach ($current_term as $myterm); {
