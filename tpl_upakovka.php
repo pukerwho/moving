@@ -146,11 +146,11 @@ Template Name: Грузчики, упаковка
 						<div class="p_page__item__text mb-5">
 							Разборка и сборка мебели любой сложности.
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/usluga-sborki-i-razborki-mebeli/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">

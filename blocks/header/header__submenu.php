@@ -78,12 +78,12 @@
     <a href="/sposoby-dostavki"><div class="lead mb-3">Способы<br>перевозки</div></a>
     <div>
       <li>
-        <a href="/sposoby-dostavki#perevozkanazem">
+        <a href="/perevozka-nazemnym-transportom/">
           Перевозка наземным <br>транспортом
         </a>
       </li>
       <li>
-        <a href="/sposoby-dostavki#perevozkaavia">
+        <a href="/perevozka-gruzov-transportom-worldmoving/">
           Перевозка авиатранспортом
         </a>
       </li>
@@ -118,7 +118,7 @@
         </a>
       </li>
       <li>
-        <a href="/specperevozki#sipuchie">
+        <a href="/perevozka-sypuchih-gruzov/">
           Сыпучие грузы
         </a>
       </li>
@@ -153,7 +153,7 @@
         </a>
       </li>
       <li>
-        <a href="/gruzchiki-upakovka#sborkamebeli">
+        <a href="/usluga-sborki-i-razborki-mebeli/">
           Услуга сборки и разборки мебели
         </a>
       </li>
