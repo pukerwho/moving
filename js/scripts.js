@@ -98,3 +98,29 @@ if($('.b_ukraine__map'). length){
     }
   });
 }
+
+//countdown sale 
+var GoCountdown = function(){
+  var currentTime = new Date();
+  var timer = currentTime;
+  timer.setMinutes( timer.getMinutes() + 4 );
+  var x = setInterval(function() {
+    var now = new Date().getTime();
+    var distance = timer - now;
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    // Display the result in the element with id="demo"
+    document.getElementById("count").innerHTML = minutes + "м " + seconds + "с ";
+
+    // If the count down is finished, write some text 
+    if (distance < 0) {
+      clearInterval(x);
+      $('.countdown__before').hide();
+      $('.countdown__after').addClass('countdown__after-active');
+    }
+  }, 1000); 
+  $('.countdown').addClass('countdown-active'); 
+}
+
+setTimeout(GoCountdown, 3000);
