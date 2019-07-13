@@ -9939,6 +9939,28 @@ header {
     -webkit-clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 0% 0) !important;
     clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%, 0% 0) !important; }
   .p_page__item:first-child {
-    margin-bottom: 1rem; } }
+    margin-bottom: 1rem; }
+
+  .countdown__before {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    text-align: center; }
+    .countdown__before .countdown__text {
+      margin-right: 0;
+      margin-bottom: 1rem; }
+  .countdown__after {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    text-align: center; }
+    .countdown__after span {
+      margin-left: 0; }
+  .countdown__text {
+    margin-right: 0; } }
 
 /*# sourceMappingURL=style.css.map */
