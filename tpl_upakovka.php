@@ -124,11 +124,11 @@ Template Name: Грузчики, упаковка
 						<div class="p_page__item__text mb-5">
 							Расчет необходимого количества и доставка упаковочного материала. Работа по упаковке для хранения, перевозки вещей, мебели.
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/upakovochnye-materialy/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">

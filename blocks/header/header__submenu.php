@@ -33,7 +33,7 @@
         </a>
       </li>
       <li>
-        <a href="/poukraine#promothod">
+        <a href="/promyshlennye-othody/">
           Промышленные отходы
         </a>
       </li>
@@ -108,7 +108,7 @@
         </a>
       </li>
       <li>
-        <a href="/specperevozki#opacniygruzi">
+        <a href="/perevozka-opasnyh-gruzov/">
           Перевозки опасных грузов
         </a>
       </li>
@@ -148,7 +148,7 @@
         </a>
       </li>
       <li>
-        <a href="/gruzchiki-upakovka#upakovkamaterial">
+        <a href="/upakovochnye-materialy/">
           Упаковочные материалы
         </a>
       </li>
