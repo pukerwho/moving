@@ -62,7 +62,7 @@
 						'cat' => $current_term_slug
 					) );
 					if ($custom_query->have_posts()) : while ($custom_query->have_posts()) : $custom_query->the_post(); ?>
-					  	<div class="col-md-4">
+					  	<div class="col-md-4 mb-4">
 					  		<div class="card">
 					  			<img class="card-img-top" src="<?php echo get_the_post_thumbnail_url(); ?>" style="height: 225px; object-fit: cover; -o-object-fit: cover;">
 					  			<div class="card-body">
