@@ -25,6 +25,15 @@ Template Name: Грузы по Украине
 	</div>
 	<div class="container">
 		<div class="row mb-5">
+			<div class="col-md-12 text-center">
+				<div>
+					<div class="my-btn modal-price-btn">
+						Раcсчитать стоимость
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row mb-5">
 			<div class="col-md-12">
 				<div class="lead">
 					<h4>Перевозки грузов по Украине от Worldmoving</h4>
