@@ -10522,6 +10522,9 @@ button.swiper-pagination-bullet {
     .b_articles__other-item {
       margin-bottom: 3rem; }
 
+  .b_reviews .swiper-slide {
+    width: 100%; }
+
   .b_contact__box {
     padding: 0.5rem; }
   .b_contact__title {
