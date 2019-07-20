@@ -61,11 +61,11 @@ Template Name: Грузы по Украине
 						<div class="p_page__item__text mb-5">
 							Перевозка автомобилей с помощью автовозов на любые расстояния.
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/perevozka-avtotransporta/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
@@ -106,11 +106,11 @@ Template Name: Грузы по Украине
 							Перевозка оборудования для предприятий, фабрик, промышленных комплексов.
 							<br>Включает в себя перевозки любой сложности с индивидуальным подходом к каждому грузу.
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/perevozka-promyshlennogo-oborudovaniya/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
@@ -128,11 +128,11 @@ Template Name: Грузы по Украине
 						<div class="p_page__item__text mb-5">
 							Перевозка строительных материалов как для частных лиц, строительства дома, дачи, коттеджа, так и для крупных застройщиков. Данная услуга перевозки предусматривает подбор специализированного транспорта (манипулятор, пирамида, открытая платформа, и т.д.)
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/perevozka-stroitelnyh-materialov/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">
@@ -150,11 +150,11 @@ Template Name: Грузы по Украине
 						<div class="p_page__item__text mb-5">
 							Перевозка товаров, предназначенных для продажи населению с целью личного, семейного и домашнего использования.
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/perevozka-hozyajstvennyh-tovarov/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">

@@ -3,7 +3,7 @@
     <a href="/poukraine/"><div class="lead mb-3">Грузы<br>по Украине</div></a>
     <div>
       <li>
-        <a href="/poukraine#avtotransport">
+        <a href="/perevozka-avtotransporta/">
           Автотранспорт
         </a>
       </li>
@@ -13,17 +13,17 @@
         </a>
       </li>
       <li>
-        <a href="/poukraine#promobor">
+        <a href="/perevozka-promyshlennogo-oborudovaniya/">
           Промышленное оборудование
         </a>
       </li>
       <li>
-        <a href="/poukraine#stroitel">
+        <a href="/perevozka-stroitelnyh-materialov/">
           Строительные материалы
         </a>
       </li>
       <li>
-        <a href="/poukraine#narodtovar">
+        <a href="/perevozka-hozyajstvennyh-tovarov/">
           Товары народного потребления
         </a>
       </li>
