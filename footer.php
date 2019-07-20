@@ -1,3 +1,6 @@
+    <section id="b_reviews">
+      <?php get_template_part('blocks/b_reviews') ?>
+    </section>
     </section>
     <footer id="footer" class="footer py-5">
     	<div class="container">

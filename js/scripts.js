@@ -99,6 +99,23 @@ if($('.b_ukraine__map'). length){
   });
 }
 
+var talentSwiper = new Swiper('.swiper-talent', {
+  effect: 'coverflow',
+  grabCursor: true,
+  centeredSlides: true,
+  slidesPerView: 'auto',
+  coverflowEffect: {
+    rotate: 30,
+    stretch: 0,
+    depth: 100,
+    modifier: 1,
+    slideShadows : true,
+  },
+  pagination: {
+    el: ".swiper-pagination"
+  }
+});
+
 //countdown sale 
 var GoCountdown = function(){
   var currentTime = new Date();
