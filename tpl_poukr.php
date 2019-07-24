@@ -51,16 +51,16 @@ Template Name: Грузы по Украине
 				<div class="p_page__grid">
 					<div class="p_page__item">
 						<div class="p_page__item__title mb-3">
-							Паллетные грузы
+							Сборные грузы
 						</div>
 						<div class="p_page__item__text mb-5">
 							Организация услуги сборных грузов помогает клиенту экономить бюджет на доставку, не прибегая к необходимости привлекать отдельный транспорт для перевозки.
 						</div>
-						<div class="">
-							<div class="my-btn modal-price-btn">
-								Раcсчитать стоимость
+						<a href="/sbornye-gruzy/">
+							<div class="my-btn">
+								Подробнее
 							</div>	
-						</div>
+						</a>
 					</div>
 					<div class="p_page__item">
 						<div class="p_page__item__img">

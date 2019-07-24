@@ -8,8 +8,8 @@
         </a>
       </li>
       <li>
-        <a href="/poukraine#pallet">
-          Паллетные грузы
+        <a href="/sbornye-gruzy/">
+          Сборные грузы
         </a>
       </li>
       <li>
