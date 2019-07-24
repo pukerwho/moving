@@ -33,7 +33,29 @@ Template Name: Международные переезды
 				</div>
 			</div>
 		</div>
-		<div class="row mb-5">
+		<div class="row">
+			<div class="col-md-6 mb-5">
+				<a href="/perevozka-lichnih-veshey-za-granitsu">
+					<div class="p_page__square" style="background: url('<?php bloginfo('template_url') ?>/img/lichni-zagranitsu.jpg'); background-position: 50%;">
+						<div class="p_page__square__title">
+							Перевозка личных вещей за границу	
+						</div>
+						<div class="p_page__square__cover"></div>
+					</div>
+				</a>
+			</div>
+			<div class="col-md-6">
+				<a href="/pereezd-kvartiti-doma-ofica-za-granitsu">
+					<div class="p_page__square" style="background: url('<?php bloginfo('template_url') ?>/img/kvartira-zagranicu.jpg'); background-position: 50%;">
+						<div class="p_page__square__title">
+							Переезд квартиры, дома или офиса за границу
+						</div>
+						<div class="p_page__square__cover"></div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<div class="row pb-5">
 			<div class="col-md-12">
 				<div class="lead">
 					<h2>Перевозка личных вещей из Украины в Европу с компанией Worldmoving</h2>
@@ -122,37 +144,6 @@ Template Name: Международные переезды
 					<br><br>Транспортная компания Worldmoving  предлагает высококачественные услуги как частным лицам, которые собираются переехать в другую страну или по Украине, так  и юридическим лицам, которые хотят  перевести свою компанию, бизнес без потерь.
 					<br><br>Наши высококвалифицированные грузчики и водители, сочетающие серьезность и профессионализм, будут сопровождать вас на протяжении всего переезда. С мастерством и эффективностью, каждый упаковщик будет вносить свой вклад в тщательную упаковку и защиту вашей мебели и личных вещей, аккуратно загружая ее в грузовик и доставляя ее в наилучших возможных условиях в ваш новый дом. -->
 				</div>
-			</div>
-		</div>
-		<div class="row mb-5">
-			<div class="col-md-12 text-center">
-				<div>
-					<div class="my-btn modal-price-btn">
-						Раcсчитать стоимость
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-6 mb-5">
-				<a href="/perevozka-lichnih-veshey-za-granitsu">
-					<div class="p_page__square" style="background: url('<?php bloginfo('template_url') ?>/img/lichni-zagranitsu.jpg'); background-position: 50%;">
-						<div class="p_page__square__title">
-							Перевозка личных вещей за границу	
-						</div>
-						<div class="p_page__square__cover"></div>
-					</div>
-				</a>
-			</div>
-			<div class="col-md-6">
-				<a href="/pereezd-kvartiti-doma-ofica-za-granitsu">
-					<div class="p_page__square" style="background: url('<?php bloginfo('template_url') ?>/img/kvartira-zagranicu.jpg'); background-position: 50%;">
-						<div class="p_page__square__title">
-							Переезд квартиры, дома или офиса за границу
-						</div>
-						<div class="p_page__square__cover"></div>
-					</div>
-				</a>
 			</div>
 		</div>
 	</div>	
