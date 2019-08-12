@@ -3,9 +3,11 @@
 		<div class="row">
 			<div class="col-md-12 text-center">
 				<div class="b_welcome__block">
-					<div class="b_welcome__title mb-5 pb-4">
-						Грузовые перевозки по Украине и всему миру
-					</div>
+					<h1>
+						<div class="b_welcome__title mb-5 pb-4">
+							Грузовые перевозки по Украине и всему миру
+						</div>
+					</h1>
 					<!-- <div class="b_welcome__desc mb-5">
 						Грузовые перевозки по Украине и всему миру
 					</div> -->
