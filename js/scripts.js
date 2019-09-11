@@ -55,6 +55,9 @@ $('.header__submenu').mouseleave(function() {
   $('.header__submenu').css({'display':'none'});
 });
 
+$('.wpcf7-form-control.wpcf7-submit').on('click', gtag_report_conversion());
+
+
 //Modal-price 
 $(document).on('click', '.modal-price-btn', function(){
   $('.modal-price').show();
