@@ -22,7 +22,25 @@
     gtag('js', new Date());
 
     gtag('config', 'UA-138524609-1');
+    gtag('config', 'AW-747792319');
   </script>
+  <!-- Event snippet for Кликнул в форме &quot;Рассчитать стоимость&quot; conversion page
+  In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+  <script>
+  function gtag_report_conversion(url) {
+    var callback = function () {
+      if (typeof(url) != 'undefined') {
+        window.location = url;
+      }
+    };
+    gtag('event', 'conversion', {
+        'send_to': 'AW-747792319/yAKkCMjB5qoBEL_PyeQC',
+        'event_callback': callback
+    });
+    return false;
+  }
+  </script>
+
   <!-- Yandex.Metrika counter -->
   <script type="text/javascript" >
      (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
