@@ -40,6 +40,14 @@
     return false;
   }
   </script>
+  <script>
+    gtag('config', 'AW-747792319/BstpCO2E56oBEL_PyeQC', {
+      'phone_conversion_number': '+38 (066) 160-1-444'
+    });
+  </script>
+  
+
+
 
   <!-- Yandex.Metrika counter -->
   <script type="text/javascript" >
