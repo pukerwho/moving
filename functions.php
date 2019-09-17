@@ -26,7 +26,7 @@ if( !isset( $content_width ) ) {
 
 require_once get_template_directory() . '/inc/carbon-fields/carbon-fields-plugin.php';
 require_once get_template_directory() . '/inc/custom-fields/settings-meta.php';
-require_once get_template_directory() . '/inc/custom-fields/apartments-meta.php';
+require_once get_template_directory() . '/inc/custom-fields/post-meta.php';
 require_once get_template_directory() . '/inc/custom-fields/pages-meta.php';
 require_once get_template_directory() . '/inc/TGM/example.php';
 
@@ -65,6 +65,7 @@ function theme_name_scripts() {
     wp_enqueue_script( 'waypoints', get_template_directory_uri() . '/js/waypoints.min.js', '','',true);
     wp_enqueue_script( 'swiper', get_template_directory_uri() . '/js/swiper.min.js', '','',true);
     wp_enqueue_script( 'parallax', get_template_directory_uri() . '/js/parallax.min.js', '','',true);
+    wp_enqueue_script( 'lightbox', get_template_directory_uri() . '/js/lightbox.min.js', '','',true);
     wp_enqueue_script( 'counterup', get_template_directory_uri() . '/js/counterup.min.js', '','',true);
     wp_enqueue_script( 'typed', get_template_directory_uri() . '/js/typed.min.js', '','',true);
     wp_enqueue_script( 'scripts', get_template_directory_uri() . '/js/scripts.js', '','',true);

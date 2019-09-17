@@ -1,6 +1,8 @@
-    <section id="b_reviews">
-      <?php get_template_part('blocks/b_reviews') ?>
-    </section>
+    <?php if( !is_page_template( 'tpl_reviews.php' )): ?>
+      <section id="b_reviews">
+        <?php get_template_part('blocks/b_reviews') ?>
+      </section>
+    <?php endif; ?>
     </section>
     <footer id="footer" class="footer py-5">
     	<div class="container">
