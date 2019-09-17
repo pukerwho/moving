@@ -138,7 +138,7 @@ Template Name: Отзывы
 				$reviews_texts = carbon_get_the_post_meta('crb_reviews_text');
 				foreach ($reviews_texts as $reviews_text):
 			?>
-				<div class="col-md-6">
+				<div class="col-md-6 mb-5">
 					<div class="p_reviews__text">
 						<div class="p_reviews__text-info mb-3">
 							<div class="p_reviews__text-quote">
