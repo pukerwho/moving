@@ -106,6 +106,7 @@
                     <a href="/gruzchiki-upakovka">Грузчики, упаковка</a>
                   </li>
                 </div>
+                <li><a href="/otzyvy">Отзывы</a></li>
                 <li><a href="/articles">Статьи</a></li>
                 <li><a href="/contact">Контакты</a></li>
               </div>
@@ -147,6 +148,9 @@
                   </li>
                   <li class="header__services">
                     <a href="#">Услуги</a>
+                  </li>
+                  <li>
+                    <a href="/otzyvy">Отзывы</a>
                   </li>
                   <li>
                     <a href="/articles">Статьи</a>
