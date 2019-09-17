@@ -81,7 +81,7 @@ Template Name: Отзывы
 					    				<?php 
 					    					$photo_src = wp_get_attachment_image_url($reviews_photo, 'large');
 					    				?>
-					    				<img src="<?php echo $photo_src ?>" alt="" class="img-fluid">
+					    				<img src="<?php echo $photo_src ?>" alt="">
 				    				<?php endforeach; ?>
 				    			</div>
 				    			<div class="p_reviews__albums-stars mb-2">
