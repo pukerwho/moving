@@ -10864,6 +10864,13 @@ html.lb-disable-scrolling {
   .b_reviews .swiper-slide {
     width: 100%; }
 
+  .p_reviews__video {
+    height: 250px; }
+  .p_reviews .swiper-review-video-button-next {
+    right: 40px; }
+  .p_reviews .swiper-review-video-button-prev {
+    left: 40px; }
+
   .b_contact__box {
     padding: 0.5rem; }
   .b_contact__title {
