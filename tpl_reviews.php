@@ -173,6 +173,7 @@ Template Name: Отзывы
 	  <div class="modal-dialog modal-lg">
 	    <div class="modal-content">
 	    	<div class="modal-body">
+	    		<button type="button" class="close" data-dismiss="modal">×</button>
 	    		<h3><?php echo $reviews_album['crb_reviews_albums_name'] ?></h3>
 	    		<div class="lead mb-3">
 	    			<?php echo $reviews_album['crb_reviews_albums_text'] ?>
