@@ -163,8 +163,8 @@ if ($(document).width() > 960) {
 };
 
 if ($(document).width() < 960) {
-  var mySwiperMobileReviewVideo = new Swiper ('.swiper-review-video', {
-    slidesPerView: 2,
+  var mySwiperReviewVideo = new Swiper ('.swiper-review-photos', {
+    slidesPerView: 1,
     simulateTouch: true,
     navigation: {
       nextEl: '.swiper-review-video-button-next',

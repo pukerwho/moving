@@ -10708,12 +10708,15 @@ html.lb-disable-scrolling {
   .mobile-show {
     display: block !important; }
 
-  .header__logo img {
-    width: 175px; }
-  .header__bottom {
-    display: none !important; }
-  .header__fixed .header__bottom {
-    display: none !important; }
+  .header {
+    padding-bottom: 1rem;
+    z-index: 4; }
+    .header__logo img {
+      width: 175px; }
+    .header__bottom {
+      display: none !important; }
+    .header__fixed .header__bottom {
+      display: none !important; }
 
   .mobile-menu {
     position: relative;
